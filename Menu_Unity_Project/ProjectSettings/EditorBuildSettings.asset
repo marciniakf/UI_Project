@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: c0e74ce183fe74af782fa6de5dd03de9
+  - enabled: 1
+    path: Assets/Scenes/MenuFil.unity
+    guid: 080d7c7c3c89348b5ac7fd779cf09515
