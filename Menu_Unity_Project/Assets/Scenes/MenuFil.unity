@@ -663,7 +663,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 251493335}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -163.25, y: 55.03, z: 0}
+  m_LocalPosition: {x: -163.25, y: 55.02997, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1663974967}
@@ -998,7 +998,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 2
-  randomSeed: -1129841357
+  randomSeed: 1832434668
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -4376,7 +4376,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 349109894}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 139.60007, y: -92.3, z: 0}
+  m_LocalPosition: {x: 160, y: -92, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1907008486}
@@ -4385,8 +4385,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 139.60007, y: -92.3}
-  m_SizeDelta: {x: 279.2, y: 50}
+  m_AnchoredPosition: {x: 160, y: -92}
+  m_SizeDelta: {x: 282, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &349109896
 MonoBehaviour:
@@ -4814,7 +4814,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 627140016}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -9, y: -596.4316, z: 0}
+  m_LocalPosition: {x: -9, y: -587, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 360095702}
@@ -4868,7 +4868,7 @@ CanvasGroup:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 627140016}
   m_Enabled: 1
-  m_Alpha: 1
+  m_Alpha: 0
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
@@ -5901,7 +5901,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 926028142}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -140.88002, y: -92.3, z: 0}
+  m_LocalPosition: {x: -160, y: -92, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 727170570}
@@ -5910,8 +5910,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -140.88, y: -92.3}
-  m_SizeDelta: {x: 281.78, y: 50}
+  m_AnchoredPosition: {x: -160, y: -92}
+  m_SizeDelta: {x: 282, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &926028144
 MonoBehaviour:
@@ -10473,7 +10473,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1321081276
 Transform:
   m_ObjectHideFlags: 0
@@ -10552,7 +10552,7 @@ ParticleSystem:
   m_GameObject: {fileID: 1321081275}
   serializedVersion: 5
   lengthInSec: 5
-  simulationSpeed: 1
+  simulationSpeed: 0.6
   stopAction: 0
   looping: 1
   prewarm: 1
@@ -10604,7 +10604,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: 1767557803
+  randomSeed: 83253601
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -14466,7 +14466,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1574462300}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 807.05, y: -625.14734, z: 0}
+  m_LocalPosition: {x: 807.05, y: -611, z: 0}
   m_LocalScale: {x: 1.2, y: 1.2, z: 1}
   m_Children:
   - {fileID: 1824385746}
@@ -21451,7 +21451,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1695390691
 Transform:
   m_ObjectHideFlags: 0
@@ -21530,7 +21530,7 @@ ParticleSystem:
   m_GameObject: {fileID: 1695390690}
   serializedVersion: 5
   lengthInSec: 5
-  simulationSpeed: 1
+  simulationSpeed: 0.6
   stopAction: 0
   looping: 1
   prewarm: 1
@@ -21582,7 +21582,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: -954819102
+  randomSeed: -1440431309
   InitialModule:
     serializedVersion: 3
     enabled: 1
@@ -29377,8 +29377,8 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2140676348}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 950, y: 540, z: 0}
-  m_LocalScale: {x: 0.9895833, y: 0.9895833, z: 0.9895833}
+  m_LocalPosition: {x: 468, y: 312, z: 0}
+  m_LocalScale: {x: 0.4875, y: 0.4875, z: 0.4875}
   m_Children:
   - {fileID: 1832531696}
   - {fileID: 1574462301}

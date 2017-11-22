@@ -46,8 +46,8 @@ public class OptionsManager : MonoBehaviour {
 
 		PlayerPrefsManager.SetMusicVolume(0.15f);
 		MusicVolumeSlider.value = 0.15f;
-		PlayerPrefsManager.SetSFXVolume(0.25f);
-		SFXVolumeSlider.value = 0.25f;
+		PlayerPrefsManager.SetSFXVolume(0.2f);
+		SFXVolumeSlider.value = 0.2f;
 	
 	}
 
